@@ -1,7 +1,10 @@
 # 📖 시리즈: D.VA 모드
 
-- **회차 목록 및 수집 정보**:
+- **대표 태그**: [일상]
+- **총 회차 수**: 1화
+- **전체 첨부 사진**: 사진/시리즈/D.VA
 
+---
 ### [ID 207949] D.VA 모드 2
   - **게시물 링크**: https://gall.dcinside.com/mgallery/board/view/?id=chokaguyahime&no=207949&search_head=100&page=10
   - **글자 수**: 4,978자

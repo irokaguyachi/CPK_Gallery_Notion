@@ -1,7 +1,10 @@
 # 📖 시리즈: (What if) 당신을 향하여
 
-- **회차 목록 및 수집 정보**:
+- **대표 태그**: [일상]
+- **총 회차 수**: 5화
+- **전체 첨부 사진**: 없음
 
+---
 ### [ID 270678] (What if) 당신을 향하여 1
   - **게시물 링크**: https://gall.dcinside.com/mgallery/board/view/?id=chokaguyahime&no=270678&search_head=100&page=2
   - **글자 수**: 1,908자

@@ -1,8 +1,10 @@
 # 📖 시리즈: SCP
 
+- **대표 태그**: [감동]
 - **총 회차 수**: 3화
-- **회차 목록 및 수집 정보**:
+- **전체 첨부 사진**: 사진/시리즈/SCP/65640_1.png, 사진/시리즈/SCP/65640_2.png, 사진/시리즈/SCP/65640_3.png
 
+---
 ### 회차 1
   - **[ID 65640]** SCP 8000시리즈 정리글
     - **게시물 링크**: [https://gall.dcinside.com/mgallery/board/view/?id=chokaguyahime&amp;no=65640&amp;search_head=100&amp;page=31](https://gall.dcinside.com/mgallery/board/view/?id=chokaguyahime&no=65640&search_head=100&page=31)
