@@ -1,0 +1,15 @@
+{
+  "name": "LiteratureNotionAgent",
+  "version": "1.2.0",
+  "description": "10,000개 단위 분할 크롤링, tag.md 참조 태그 분류, 메모장 사전 정리 및 노션 동기화 에이전트",
+  "language": "ko",
+  "mcp_servers": [
+    "notion"
+  ],
+  "rules": [
+    "rules/tag.md",
+    "rules/crawling.md",
+    "rules/notepad-prep.md",
+    "rules/notion-sync.md"
+  ]
+}

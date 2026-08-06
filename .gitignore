@@ -1,0 +1,17 @@
+# Ignore Photo Assets (Keep local, do not push to GitHub)
+사진/
+
+# Secrets & Local Configurations
+.mcp.json
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary scratch scripts & logs
+scratch/
+*.tmp
+*.log
