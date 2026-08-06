@@ -30,6 +30,10 @@
 5. **크롤링 현황 기록 (`CurrentStats.md`)**:
    - 작업 완료 시 **`CurrentStats.md`**에 마지막 크롤링한 페이지 번호, 게시글 ID, 작업 완료 일시, **총 수집 문학 건수, 총 수집 글자 수(및 텍스트 용량), 총 수집 사진 수 및 총 사진 용량**을 자동 기록.
 
+6. **GitHub 동기화 (자동 커밋 & 푸시)**:
+   - 매 수집 완료 시 `Jihoooooooon <iroyachikagu168@gmail.com>` 명의로 변경 사항을 자동 커밋 및 GitHub 원격 저장소(`irokaguyachi/CPK_Gallery_Notion`)에 자동 푸시(`git push origin main`).
+
+
 
 
 
