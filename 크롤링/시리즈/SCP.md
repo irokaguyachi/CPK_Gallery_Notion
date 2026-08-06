@@ -7,7 +7,7 @@
   - **[ID 65640]** SCP 8000시리즈 정리글
     - **게시물 링크**: [https://gall.dcinside.com/mgallery/board/view/?id=chokaguyahime&amp;no=65640&amp;search_head=100&amp;page=31](https://gall.dcinside.com/mgallery/board/view/?id=chokaguyahime&no=65640&search_head=100&page=31)
     - **글자 수**: 3,800자
-    - **회차 첨부 사진**: 사진/7/65640_1.png, 사진/7/65640_2.png, 사진/7/65640_3.png
+    - **회차 첨부 사진**: 사진/시리즈/SCP/65640_1.png, 사진/시리즈/SCP/65640_2.png, 사진/시리즈/SCP/65640_3.png
 
 ### 회차 2
   - **[ID 65695]** SCP시리즈) 재단의 수석 연구원의 이야기 - 1
