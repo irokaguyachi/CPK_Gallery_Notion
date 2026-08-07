@@ -15,3 +15,9 @@ $RECYCLE.BIN/
 scratch/
 *.tmp
 *.log
+
+# Agent internal files — only rules/tag.md should be published
+.agent/*
+!.agent/rules
+.agent/rules/*
+!.agent/rules/tag.md
